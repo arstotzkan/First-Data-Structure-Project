@@ -2,6 +2,7 @@ package partA;
 
 import java.io.PrintStream;
 import java.util.NoSuchElementException;
+//original interface given the professor
 
 /** * Defines the methods for a Double-ended Queue that handles String items */public interface StringDoubleEndedQueue<T> {	/**	 * @return true if the queue is empty	 */	public boolean isEmpty();	/**	 * insert a Object item at the front of the queue	 */	public void addFirst(T item);	/**	 * remove and return the item at the front of the queue
 	 * @return Object from the front of the queue
