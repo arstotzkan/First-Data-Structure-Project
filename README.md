@@ -1,2 +1,6 @@
 # First-Data-Structure-Project
-university project
+A University project in Java
+
+Executable Files:
+-PostfixToInfix
+-DNAPalindrome
